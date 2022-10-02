@@ -1,3 +1,3 @@
-module github.com/justisCrocker/gobab.git
+module github.com/justisCrocker/gobab
 
 go 1.18
